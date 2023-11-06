@@ -1,6 +1,11 @@
 using System;
 using System.Numerics;
 
+/* 题目描述:
+ * 100个小朋友围城一圈, 设定编号1~100，依次按照1,2,3,4,5,6,7,8,9的顺序循环报数, 报到9的出圈, 直至所有小朋友出圈
+ * 编写代码打印出各个小朋友的出圈顺序
+ */
+
 // 当前所有数字列表, 如果访问过则设置为-1
 List<int> numList = new List<int>(105);
 int numListIndex = 1;

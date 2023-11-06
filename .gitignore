@@ -1,0 +1,6 @@
+/classical-algorithm/bin/*
+/classical-algorithm/obj/*
+
+.idea/*
+*.sln 
+*.csproj

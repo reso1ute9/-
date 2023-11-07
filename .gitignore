@@ -1,5 +1,5 @@
-/classical-algorithm/bin/*
-/classical-algorithm/obj/*
+/ConsoleApp/bin/*
+/ConsoleApp/obj/*
 
 .idea/*
 *.sln 
